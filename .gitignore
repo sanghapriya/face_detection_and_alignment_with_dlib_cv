@@ -3,3 +3,4 @@ output/
 shape_predictor_68_face_landmarks.dat
 face_detector.py
 face_landmark_detection.py
+projecting_face.py
